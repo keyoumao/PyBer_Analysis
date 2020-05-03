@@ -12,7 +12,7 @@ From the Summary DataFrame Table. Urban has the highest number of total rides, d
 
 ![](https://github.com/keyoumao/PyBer_Analysis/blob/master/analysis/DataFrame%20Table.PNG)
 
-Figure of the Total Fare By City Type is fiven as follows. During the first four months of 2019 for each of the time period, Urban has the No.1 fares, Suburban has the No.2 highest and Rural has the lowest fare. 
+Figure of the Total Fare By City Type is given as follows. During the entire time period of the first four months of 2019, Urban has the No.1 fares, Suburban has the No.2 highest and Rural has the lowest fare. 
 
 ![](https://github.com/keyoumao/PyBer_Analysis/blob/master/analysis/Fig_Challenge.png)
 
