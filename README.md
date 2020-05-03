@@ -8,7 +8,7 @@ The purpose of this assignment is to create two additional technical analyses an
 Technical Analysis Deliverable 1: A DataFrame that summarizes the key metrics for the ride-sharing data by city type. 
 Technical Analysis Deliverable 2: A multiple-line chart, with one line for each city type, that shows the sum of the fares for each week. We used Pandas to create DataFrame summary for deliverable 1 and Matplotlib to plot line chart for deliverable 2.
 ### Results
-![alt text](https://https://github.com/keyoumao/PyBer_Analysis/blob/master/analysis/Fig_Challenge.png)
+![](https://github.com/keyoumao/PyBer_Analysis/blob/master/analysis/Fig_Challenge.png)
 ### Summary
 
 ## Challenges Encountered and Overcome
