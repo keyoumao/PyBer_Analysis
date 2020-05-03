@@ -31,22 +31,22 @@ Find the story behnd the data; clean and merge the data; find the anormalities.
 How to appropriately formatting the figure; precisely plot the dataframe. 
 
 ### Technical Analyses Used
-
+Most of the functions we could refer to the Pandas official documentation, and instructions can also be found in the Matplotlib documentations to fulfill our requirements for plotting. Some votes answers on the stackoverflow, tech blogs, office hours and TA sessions could help solve some challenges as well. 
 ## Recommendations and Next Steps
 
 ### Recommendations for Future Analysis
-
+We suggest Pyber to add more rides to the Urban and keep the rides and drivers for the rural and suburban region. Below are two more additional analyses which could help us gain more insights from our data. 
 ### Additional Analysis 1
 
-* Description of Approach
-
-* Technical Steps
-
+* Description of Approach<br />
+Find relationship the total fare basded on the each City: providing suggestions for adding/reducing rides/drivers in different cities.
+* Technical Steps<br />
+Create DataFrames based on each city and find if anything abnormal could be found in certain cities linked to the City Type.
 ### Additional Analysis 2
 
-* Description of Approach
-
-* Technical Steps
-
+* Description of Approach<br />
+Find relationship the total fare for a longer period of time basded on the City Type: providing suggestions for adding/reducing rides/drivers in different months.
+* Technical Steps<br />
+Create DataFrames groupby City Type and then focus on finding trends over a longer period of time. 
 
 
